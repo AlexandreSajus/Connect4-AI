@@ -1,0 +1,4 @@
+pettingzoo == 1.22.0
+tianshou
+gym
+pygame
